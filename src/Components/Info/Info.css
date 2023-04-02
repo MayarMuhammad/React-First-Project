@@ -1,0 +1,29 @@
+.infoBG {
+  background-color: #2c3e50;
+}
+.infoBG h3 {
+  font-size: 24px;
+  font-weight: 700;
+}
+.infoBG p {
+  font-size: 20px;
+  line-height: 30px;
+}
+.icons i {
+  color: white;
+  box-shadow: 0 0 0 2px white;
+  background: transparent;
+  width: 45px;
+  height: 45px;
+  line-height: 45px;
+  border-radius: 50%;
+  text-align: center;
+  vertical-align: middle;
+  font-size: 20px;
+  transition: all 500ms ease;
+}
+.icons i:hover {
+  cursor: pointer;
+  color: black;
+  background-color: white;
+}

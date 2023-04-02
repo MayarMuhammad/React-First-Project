@@ -1,0 +1,34 @@
+.image .overlay {
+  background-color: rgba(26, 188, 156, 0.9);
+  opacity: 0;
+  transition: all 0.5s;
+  -webkit-transition: all 0.5s;
+  -moz-transition: all 0.5s;
+  -ms-transition: all 0.5s;
+  -o-transition: all 0.5s;
+}
+.image:hover {
+  cursor: pointer;
+}
+.image:hover .overlay {
+  opacity: 1;
+}
+.btnBG {
+  background-color: #1abc9c !important;
+  border-color: #1abc9c !important;
+}
+.btnBG:hover {
+  background-color: #159a80 !important;
+  border-color: #159a80 !important;
+}
+.btn-close {
+  position: absolute !important;
+  top: 0;
+  right: 0;
+  margin: 20px !important;
+}
+.modal-content h2 {
+  color: #2c3e50;
+  font-size: 48px;
+  font-weight: 700;
+}

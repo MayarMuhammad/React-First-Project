@@ -1,0 +1,23 @@
+.mainBG {
+  background-color: #1abc9c;
+  padding: 150px 0px;
+}
+.image img {
+  width: 240px;
+}
+.mainBG h1 {
+  font-size: 64px;
+  font-weight: 700;
+}
+.mainBG p {
+  font-size: 24px;
+}
+.line .whiteLine {
+  width: 120px;
+  border: 2px solid white;
+  border-radius: 5px;
+  opacity: 1;
+}
+.line i {
+  color: white;
+}

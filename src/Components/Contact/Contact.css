@@ -1,0 +1,34 @@
+.lines .blackLine {
+  width: 100px;
+  border: 2px solid #2c3e50 !important;
+  border-radius: 5px;
+  opacity: 1;
+}
+.lines i {
+  color: #2c3e50 !important;
+}
+.customWidth {
+  width: 50%;
+  margin: auto;
+}
+.btn-info {
+  background-color: #1abc9c !important;
+  border-color: #1abc9c !important;
+}
+.btn-info:hover {
+  background-color: #149279 !important;
+  border-color: #149279 !important;
+}
+.customWidth input,
+.customWidth textarea {
+  font-size: 24px;
+}
+.paddingTop {
+  padding: 100px 0px;
+}
+@media only screen and (max-width: 992px) {
+  .customWidth {
+    width: 90%;
+    margin: auto;
+  }
+}

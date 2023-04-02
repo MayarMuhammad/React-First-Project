@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/React-First-Assignment/static/css/main.75f848ee.css",
+    "main.js": "/React-First-Assignment/static/js/main.b4bb60a0.js",
+    "static/js/787.f9368c54.chunk.js": "/React-First-Assignment/static/js/787.f9368c54.chunk.js",
+    "static/media/fa-solid-900.ttf": "/React-First-Assignment/static/media/fa-solid-900.4a2cd718d7031b732e76.ttf",
+    "static/media/fa-brands-400.ttf": "/React-First-Assignment/static/media/fa-brands-400.150de8eaa454d669c405.ttf",
+    "static/media/fa-solid-900.woff2": "/React-First-Assignment/static/media/fa-solid-900.bb975c966c37455a1bc3.woff2",
+    "static/media/fa-brands-400.woff2": "/React-First-Assignment/static/media/fa-brands-400.e033a13ee751afc1860c.woff2",
+    "static/media/fa-regular-400.ttf": "/React-First-Assignment/static/media/fa-regular-400.d87474231f4192884802.ttf",
+    "static/media/montserrat-all-400-normal.woff": "/React-First-Assignment/static/media/montserrat-all-400-normal.327fab0afc997a2d9b16.woff",
+    "static/media/cabin.png": "/React-First-Assignment/static/media/cabin.4417330275f78faa31c3.png",
+    "static/media/circus.png": "/React-First-Assignment/static/media/circus.494a4a914b5471b41f3e.png",
+    "static/media/game.png": "/React-First-Assignment/static/media/game.a940b57aa7bab2eacc52.png",
+    "static/media/fa-regular-400.woff2": "/React-First-Assignment/static/media/fa-regular-400.3223dc79c1adee56370b.woff2",
+    "static/media/submarine.png": "/React-First-Assignment/static/media/submarine.48c9704ca7f8ce901038.png",
+    "static/media/safe.png": "/React-First-Assignment/static/media/safe.01792c0bdc342bf4bf9c.png",
+    "static/media/cake.png": "/React-First-Assignment/static/media/cake.6554473016d32b343f02.png",
+    "static/media/montserrat-latin-400-normal.woff2": "/React-First-Assignment/static/media/montserrat-latin-400-normal.acb6629fe45c43ad5d8b.woff2",
+    "static/media/montserrat-latin-ext-400-normal.woff2": "/React-First-Assignment/static/media/montserrat-latin-ext-400-normal.0204ec08a4b574088f02.woff2",
+    "static/media/fa-v4compatibility.ttf": "/React-First-Assignment/static/media/fa-v4compatibility.0e3a648be390bd8cb094.ttf",
+    "static/media/montserrat-cyrillic-ext-400-normal.woff2": "/React-First-Assignment/static/media/montserrat-cyrillic-ext-400-normal.bbf9e820a2563aac0d8b.woff2",
+    "static/media/montserrat-cyrillic-400-normal.woff2": "/React-First-Assignment/static/media/montserrat-cyrillic-400-normal.e5c5c19c23e370a342c8.woff2",
+    "static/media/fa-v4compatibility.woff2": "/React-First-Assignment/static/media/fa-v4compatibility.68577e40f3e70067b5da.woff2",
+    "static/media/montserrat-vietnamese-400-normal.woff2": "/React-First-Assignment/static/media/montserrat-vietnamese-400-normal.8f3f4c99eb0eeb5990f1.woff2",
+    "index.html": "/React-First-Assignment/index.html",
+    "main.75f848ee.css.map": "/React-First-Assignment/static/css/main.75f848ee.css.map",
+    "main.b4bb60a0.js.map": "/React-First-Assignment/static/js/main.b4bb60a0.js.map",
+    "787.f9368c54.chunk.js.map": "/React-First-Assignment/static/js/787.f9368c54.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75f848ee.css",
+    "static/js/main.b4bb60a0.js"
+  ]
+}
