@@ -1,7 +1,7 @@
 {
   "name": "react_assignment_1",
   "version": "0.1.0",
-  "homepage": "https://MayarMuhammad.github.io/React-First-Project",
+  "homepage": "https://mayarmuhammad.github.io/React-First-Project",
   "private": true,
   "dependencies": {
     "@fontsource/montserrat": "^4.5.14",

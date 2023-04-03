@@ -32,7 +32,7 @@ const router = createBrowserRouter([
   //   ],
   // },
   {
-    path: "React-First-Assignment",
+    path: "React-First-Project",
     element: <Layout />,
     children: [
       { path: "", element: <Main /> },
